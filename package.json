@@ -1,5 +1,5 @@
 {
-  "name": "node-windows",
+  "name": "node-windows-netfx-4",
   "version": "0.1.12",
   "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
   "keywords": [
@@ -28,7 +28,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/coreybutler/node-windows.git"
+    "url": "git://github.com/AmbulApps/node-windows.git"
   },
   "license": "MIT",
   "engine": "node >= 0.10.10"
